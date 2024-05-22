@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "sYtWRUV9nLFHr1RblDGUTs+TP/Deris/S9qjnRUMlS2LfzhD4V3v3kvrvTS2HzRJZD0RdZF4ja2N7BmprlHnXQ==",
+  "success": true,
+  "projectFilePath": "/Users/AGasim/workspaces/C# training/PizzaStore/PizzaStore.csproj",
+  "expectedPackageFiles": [
+    "/Users/AGasim/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/AGasim/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/AGasim/.nuget/packages/swashbuckle.aspnetcore/6.1.4/swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
+    "/Users/AGasim/.nuget/packages/swashbuckle.aspnetcore.swagger/6.1.4/swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "/Users/AGasim/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.1.4/swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "/Users/AGasim/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.1.4/swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}

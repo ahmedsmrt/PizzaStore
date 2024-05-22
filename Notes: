@@ -1,0 +1,6 @@
+Notes:
+
+- Entity framework : Database Layer
+- Dapper - thin layer between DB and code - provide query - Rainbow  
+- sql express
+- ORM - object relational mapping
